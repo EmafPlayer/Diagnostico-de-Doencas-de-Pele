@@ -1,6 +1,6 @@
 # Diagnóstico de Doenças de Pele
 
-Bem-vindo ao Diagnóstico de Doenças de Pele! Este é um simples sistema que vai diagnosticar sua doença de pele com base nos seus sintomas. 
+Bem-vindo ao Diagnóstico de Doenças de Pele! Este é um programa que vai diagnosticar sua doença de pele com base nos seus sintomas. 
 
 ## Como funciona
 
